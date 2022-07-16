@@ -1,0 +1,15 @@
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/bin/Debug/net6.0/DebugBasics
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/bin/Debug/net6.0/DebugBasics.deps.json
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/bin/Debug/net6.0/DebugBasics.runtimeconfig.json
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/bin/Debug/net6.0/DebugBasics.dll
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/bin/Debug/net6.0/DebugBasics.pdb
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/obj/Debug/net6.0/DebugBasics.csproj.AssemblyReference.cache
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/obj/Debug/net6.0/DebugBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/obj/Debug/net6.0/DebugBasics.AssemblyInfoInputs.cache
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/obj/Debug/net6.0/DebugBasics.AssemblyInfo.cs
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/obj/Debug/net6.0/DebugBasics.csproj.CoreCompileInputs.cache
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/obj/Debug/net6.0/DebugBasics.dll
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/obj/Debug/net6.0/refint/DebugBasics.dll
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/obj/Debug/net6.0/DebugBasics.pdb
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/obj/Debug/net6.0/DebugBasics.genruntimeconfig.cache
+/Users/jayantchoudhary/Library/Application Support/JetBrains/Rider2022.1/resharper-host/RiderTutorials/Tutorials/T3/DebugBasics/obj/Debug/net6.0/ref/DebugBasics.dll
